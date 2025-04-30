@@ -1,21 +1,9 @@
 # CipkoAI – Handwritten Digit Recognizer 🧠
 
-CipkoAI is a simple handwritten digit recognizer powered by PyTorch and trained on the MNIST dataset.
+# CipkoAI is a simple handwritten digit recognizer powered by PyTorch and trained on the MNIST dataset.
 
-## 🚀 Features
+# Go to specific versions(folders on repository) and download files and read README.txt
 
-- Convolutional Neural Network (CNN) for strong accuracy
-- Supports custom image input (JPG/PNG/etc)
-- Centered & contrast-enhanced preprocessing
-- Configurable model settings via `config.json`
-
-## What you need?
-
-- Just paint some handwritten digit and put the name in the input
-
-## 🛠 Requirements
-
-- Python 3.8+
-- Pip packages:
-  ```bash
-  pip install -r requirements.txt
+Legend:
+  Versions prefix: A(Alpha), B(Beta)
+  Version number: Number after prefix is version(Higher the number the newer it is)
