@@ -1,0 +1,7 @@
+{
+  "epochs": 1,
+  "learning_rate": 0.001,
+  "hidden_units": 128,
+  "conv_channels": 16,
+  "batch_size": 64
+}
