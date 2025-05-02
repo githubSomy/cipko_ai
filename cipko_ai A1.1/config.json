@@ -1,0 +1,12 @@
+{
+  "epochs": 5,
+  "learning_rate": 0.001,
+  "hidden_units": 256,
+  "conv_channels": 32,
+  "conv_layers": 3,
+  "dropout": 0.5,
+  "batchnorm": true,
+  "batch_size": 64,
+  "sharpen": true,
+  "invert_threshold": 127
+}
